@@ -4,7 +4,8 @@
   "description": "Generador de currículum de HorchataJS",
   "scripts": {
     "start": "resume serve --theme stackoverflow",
-    "export": "node node_modules/resume-cli export --theme=stackoverflow index.html"
+    "export:html": "node node_modules/resume-cli export --theme=stackoverflow index.html",
+    "export:pdf": "node node_modules/resume-cli export --theme=stackoverflow --format pdf cv.pdf"
   },
   "author": "Ricardo Ramirez",
   "license": "MIT",
