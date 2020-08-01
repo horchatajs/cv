@@ -1,0 +1,14 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Generador de currículum de HorchataJS",
+  "scripts": {
+    "start": "resume serve --theme stackoverflow"
+  },
+  "author": "Ricardo Ramirez",
+  "license": "MIT",
+  "dependencies": {
+    "jsonresume-theme-stackoverflow": "^1.4.0",
+    "resume-cli": "^1.2.8"
+  }
+}
