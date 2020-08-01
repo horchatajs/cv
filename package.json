@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Generador de currículum de HorchataJS",
   "scripts": {
-    "start": "resume serve --theme stackoverflow"
+    "start": "resume serve --theme stackoverflow",
+    "export": "node node_modules/resume-cli export --theme=stackoverflow index.html"
   },
   "author": "Ricardo Ramirez",
   "license": "MIT",
