@@ -1,7 +1,7 @@
 # cv
 Generador de currículum
 
-Este proyecto utiliza [JSON Resume](https://jsonresume.org/p).
+Este proyecto utiliza [JSON Resume](https://jsonresume.org/).
 
 ## Cómo comenzar
 
